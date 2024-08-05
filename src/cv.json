@@ -1,0 +1,331 @@
+{
+  "basics": {
+    "name": "Victor Javier Vivas",
+    "label": "Programmer",
+    "image": "https://myshop-victor.s3.amazonaws.com/pngegg(01).png",
+    "email": "victorjaviervivas@gmail.com",
+    "phone": "+543517178283",
+    "url": "https://johndoe.com",
+    "summary": "Hace no menos de 2 años, me sumergí en el mundo de la programación, adquiriendo conocimientos en diversas ramas de esta disciplina. A lo largo de mi vida, me he dedicado al esfuerzo constante y a mejorar tanto en el ámbito laboral como en el personal. Soy un programador apasionado por el aprendizaje continuo y la superación, siempre buscando nuevas oportunidades para crecer y contribuir con mis habilidades y conocimientos.",
+    "location": {
+      "address": "General Carol Urzua 6950",
+      "postalCode": "7550000",
+      "city": "Region Metropolitana",
+      "countryCode": "CL",
+      "region": "Las Conde"
+    },
+    "nationality": {
+      "country": "Argentino",
+      "provincia": "Cordoba",
+      "localidad": "Rio Ceballo",
+      "countryCode": "AR"
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "username": "Victor Javier Vivas",
+        "url": "https://www.facebook.com/"
+      },
+      {
+        "network": "GitHub",
+        "username": "victorvivas27",
+        "url": "https://github.com/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Victor Javier Vivas",
+        "url": "https://www.linkedin.com/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CNH Industrial",
+      "position": "Operario de Pintura en Cabina",
+      "url": "",
+      "startDate": "2012-10-01",
+      "endDate": "2021-05-01",
+      "summary": "Participé en la fabricación de maquinaria agrícola y de construcción, especializado en la aplicación de pintura en cabina para acabados de alta calidad.",
+      "highlights": [
+        "Aplicación de pinturas y recubrimientos en cabina, asegurando acabados uniformes y duraderos.",
+        "Mantenimiento y calibración de equipos de pintura para garantizar un rendimiento óptimo.",
+        "Control de calidad del trabajo final, incluyendo la inspección de acabados y corrección de imperfecciones.",
+        "Colaboración en la implementación de mejoras en los procesos de pintura para aumentar la eficiencia y reducir el desperdicio."
+      ]
+    },
+    {
+      "name": "DX SRL DIXTRON",
+      "position": "Operario de Inyección de Plástico",
+      "url": "",
+      "startDate": "2012-10-01",
+      "endDate": "2012-10-01",
+      "summary": "Participé en la fabricación de envases y embalajes mediante el proceso de inyección de plástico, asegurando la calidad y eficiencia en la producción.",
+      "highlights": [
+        "Operación de maquinaria de inyección de plástico para la producción de envases y embalajes.",
+        "Inspección y control de calidad de productos plásticos para garantizar conformidad con las especificaciones.",
+        "Mantenimiento básico de equipos y ajuste de parámetros para optimizar el proceso de inyección.",
+        "Colaboración con el equipo para mejorar la eficiencia en la línea de producción y reducir defectos."
+      ]
+    },
+    {
+      "name": "RODRIGUEZ ROQUE RAM.",
+      "position": "Ayudante construccion",
+      "url": "",
+      "startDate": "2012-09-01",
+      "endDate": "2012-10-01",
+      "summary": "Construccion de grandes edificios.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "LEQUIPE MONTEUR S.A.",
+      "position": "Operario de Inyección de Plástico",
+      "url": "",
+      "startDate": "2010-10-01",
+      "endDate": "2012-05-01",
+      "summary": "Participé en la fabricación de grandes conjuntos plásticos para el interior y exterior de automóviles, manejando procesos de inyección de plástico para producir componentes de alta calidad.",
+      "highlights": [
+        "Operación de maquinaria de inyección de plástico para producir componentes automotrices.",
+        "Inspección y control de calidad de piezas plásticas, asegurando que cumplieran con las especificaciones técnicas y estándares de la industria.",
+        "Ajuste y mantenimiento de máquinas para optimizar el rendimiento y la precisión del proceso de inyección.",
+        "Colaboración con el equipo para implementar mejoras en el proceso y reducir defectos de producción."
+      ]
+    },
+    {
+      "name": "MGI Coutier Argentina S.A.",
+      "position": "Operario de Soplado e Inyección de Plástico",
+      "url": "",
+      "startDate": "2007-09-01",
+      "endDate": "2010-08-01",
+      "summary": "Especializado en la fabricación e industrialización de productos plásticos para la industria automotriz, manejando procesos de soplado e inyección para producir componentes de alta calidad.",
+      "highlights": [
+        "Operación de máquinas de soplado e inyección de plástico para la producción de componentes automotrices.",
+        "Control de calidad de productos plásticos, asegurando que cumplieran con las especificaciones técnicas y estándares de la industria.",
+        "Ajuste y mantenimiento de equipos para optimizar el proceso de producción y minimizar defectos.",
+        "Colaboración en la mejora continua de procesos para aumentar la eficiencia y reducir desperdicios."
+      ]
+    },
+    {
+      "name": "THE MANAGER SA",
+      "position": "Operario inyeccion de plastico",
+      "url": "",
+      "startDate": "2007-04-01",
+      "endDate": "2007-09-01",
+      "summary": "Consultora",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Pinturas & Construcción",
+      "position": "Pintor Senior, Supervisor de Pintura",
+      "url": "",
+      "startDate": "2003-08-01",
+      "endDate": "2007-04-01",
+      "summary": "Trabajé en una empresa especializada en la aplicación de pintura y construcción, liderando equipos y supervisando proyectos para garantizar acabados de alta calidad en diversas aplicaciones.",
+      "highlights": [
+        "Supervisión de equipos de pintores en proyectos residenciales y comerciales, asegurando altos estándares de calidad.",
+        "Aplicación de técnicas avanzadas de pintura, incluyendo acabados especiales y tratamientos de superficies.",
+        "Planificación y coordinación de proyectos de pintura, desde la preparación de superficies hasta la aplicación final.",
+        "Gestión de materiales y equipos, incluyendo el mantenimiento y calibración de herramientas de pintura.",
+        "Entrenamiento y desarrollo de habilidades del personal, promoviendo prácticas de trabajo seguras y eficientes."
+      ]
+    },
+    {
+      "name": "Aguero & Crespo",
+      "position": "Pintor Junior",
+      "url": "",
+      "startDate": "1998-01-01",
+      "endDate": "2003-08-01",
+      "summary": "Desarrollé habilidades en la aplicación de pintura en proyectos residenciales y comerciales, contribuyendo a la calidad y acabado de las superficies pintadas.",
+      "highlights": [
+        "Aplicación de pinturas en interiores y exteriores bajo la supervisión de pintores más experimentados.",
+        "Preparación de superficies antes de la pintura, incluyendo limpieza, lijado y enmascarado.",
+        "Uso de herramientas y equipos de pintura de manera eficiente, siguiendo las instrucciones de seguridad y técnicas adecuadas.",
+        "Colaboración en la planificación y ejecución de proyectos de pintura, aprendiendo y aplicando técnicas básicas de acabado."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Vue.js"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Node.js",
+        "Express.js"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "level": "Intermediate",
+      "keywords": [
+        "MySQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Beginner",
+      "keywords": [
+        "Docker",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Testing and Quality Assurance",
+      "level": "Intermediate",
+      "keywords": [
+        "Unit Testing",
+        "Integration Testing",
+        "End-to-End Testing",
+        "Jest",
+        "Selenium"
+      ]
+    },
+    {
+      "name": "Security",
+      "level": "Beginner",
+      "keywords": [
+        "Authentication",
+        "Authorization"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "Advanced",
+      "keywords": [
+        "Teamwork",
+        "Effective Communication",
+        "Problem-Solving",
+        "Critical Thinking",
+        "Time Management",
+        "Leadership"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Clinica Odontologica",
+      "isActive": true,
+      "description": "Examen de front-end III para evaluar habilidades en React. Incluye configuración de rutas, creación de componentes para distintas vistas, implementación de un contexto global con `useContext` y `useReducer`, y manejo de favoritos con `localStorage`. El diseño se ajusta al tema actual.",
+      "highlights": [
+        "Calificación: 10/10"
+      ],
+      "url": "https://clinicaodontologicaexamenfrontend3.netlify.app/"
+    },
+    {
+      "name": "Mouse Segir",
+      "isActive": true,
+      "description": "Aplicación interactiva desarrollada en React que permite seguir el movimiento del ratón con una bolita en la pantalla. Incluye funcionalidades para activar o desactivar el seguimiento del puntero y cambiar el estilo del cursor. Utiliza eventos de puntero y manipulación de clases CSS para una experiencia dinámica.",
+      "highlights": [
+        "Practicando lógica de eventos en React",
+        "Interactividad avanzada con seguimiento del ratón",
+        "Implementación de cambios dinámicos en el estilo del cursor"
+      ],
+      "url": "https://mousesegir.netlify.app"
+    },
+    {
+      "name": "Project",
+      "isActive": false,
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    },
+    {
+      "name": "Project",
+      "isActive": false,
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }
+  ]
+}
