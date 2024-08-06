@@ -32,9 +32,9 @@ const printInfo=[email,phone,linkedUrl].filter(Boolean).join(" • ")
       </span>
       <p>Dirección: {address} </p>
       <p>Código postal: {postalCode}</p>
-      <p>Nacionalidad: {country}</p>
+      {/* <p>Nacionalidad: {country}</p>
       <p>Provincia: {provincia}</p>
-      <p>Localidad: {localidad}</p>
+      <p>Localidad: {localidad}</p>*/}
       <footer class="print">
       {printInfo}
       </footer>
@@ -153,19 +153,6 @@ const printInfo=[email,phone,linkedUrl].filter(Boolean).join(" • ")
     background: #eee;
     border: 1px solid #ddd;
   }
-  @media print{
-    .no-print{
-      display: none;
-    }
-  }
-  .print{
-    display: none;
-  }
-  @media print{
-  .print{
-    display: block;
-  }
-
-  }
+ 
  
 </style>
