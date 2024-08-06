@@ -76,20 +76,20 @@ const { image, summary, url } = basics
 	text-wrap: pretty;
   }
   @media print {
-    .no-print {
-      display: none !important;
-    }
-
-    .print {
-      display: block !important;
-    }
-
-    astro-dev-toolbar {
-      display: none !important;
-    }
-
-    article {
-      break-inside: avoid;
-    }
+  .no-print {
+    display: none !important;
   }
+
+  #print {
+    display: block !important;
+  }
+
+  astro-dev-toolbar {
+    display: none !important;
+  }
+
+  article {
+    break-inside: avoid;
+  }
+}
 </style>

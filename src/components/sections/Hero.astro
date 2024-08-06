@@ -28,15 +28,15 @@ const printInfo=[email,phone,linkedUrl].filter(Boolean).join(" • ")
       <h1>{name}</h1>
       <h2>{label}</h2>
       <span>
-        <Earth />{city},{region},{countryCode}
+        <Earth />{city}, {region}, {countryCode}
       </span>
-      <p>Dirección: {address} </p>
+      <p>Dirección: {address}</p>
       <p>Código postal: {postalCode}</p>
       {/* <p>Nacionalidad: {country}</p>
       <p>Provincia: {provincia}</p>
-      <p>Localidad: {localidad}</p>*/}
-      <footer class="print">
-      {printInfo}
+      <p>Localidad: {localidad}</p> */}
+      <footer id="print">
+        {printInfo}
       </footer>
       <footer class="no-print">
         {email && (
@@ -77,13 +77,12 @@ const printInfo=[email,phone,linkedUrl].filter(Boolean).join(" • ")
       </footer>
     </div>
     <figure>
-      <img src={image} alt={name} class="rotate-in-diag-1 " />
+      <img src={image} alt={name} class="rotate-in-diag-1" />
     </figure>
   </div>
 </Section>
 
 <style>
- 
 @keyframes rotate-in-diag-1 {
   0% {
     transform: rotate3d(1, 1, 0, -360deg);
@@ -95,64 +94,78 @@ const printInfo=[email,phone,linkedUrl].filter(Boolean).join(" • ")
   }
 }
 
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  color: #444;
+  font-size: 1.1rem;
+  font-weight: 500;
+  text-wrap: balance;
+}
+.rotate-in-diag-1 {
+  aspect-ratio: 1 / 1;
+  width: 150px; /* Increased size */
+  object-fit: contain;
+  animation: rotate-in-diag-1 0.5s;
+}
+span {
+  color: #666;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.85rem;
+  letter-spacing: -0.05rem;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding-right: 32px;
+  flex: 1;
+}
+footer {
+  font-size: 0.65rem;
+  color: #555;
+  display: flex;
+  gap: 0.5rem;
+}
+footer a {
+  color: #666;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #eee;
+  padding: 4px;
+  height: 32px;
+  width: 32px;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+footer a:hover {
+  background: #eee;
+  border: 1px solid #ddd;
+}
+#print {
+  display: none; 
+}
+@media (max-width: 768px) {
   .container {
-    display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
-    justify-content: space-between;
-    gap: 1rem;
-  }
-  h1 {
-    font-size: 2rem;
-  }
-  h2 {
-    color: #444;
-    font-size: 1.1rem;
-    font-weight: 500;
-    text-wrap: balance;
-  }
-  .rotate-in-diag-1  {
-    aspect-ratio: 1 / 1;
-    width: 128px;
-    object-fit: contain;
-    animation: rotate-in-diag-1 0.5s ;
-  }
-  span {
-    color: #666;
-    display: flex;
-    align-items: center;
-    gap: 0.25rem;
-    font-size: 0.85rem;
-    letter-spacing: -0.05rem;
   }
   .info {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-    padding-right: 32px;
-  }
-  footer {
-    font-size: 0.65rem;
-    color: #555;
-    display: flex;
-    gap: 0.5rem;
-  }
-  footer a {
-    color: #666;
-    display: inline-flex;
+    padding-right: 0;
     align-items: center;
-    justify-content: center;
-    border: 1px solid #eee;
-    padding: 4px;
-    height: 32px;
-    width: 32px;
-    border-radius: 6px;
-    transition: all 0.3s ease;
+    text-align: center;
   }
-  footer a:hover {
-    background: #eee;
-    border: 1px solid #ddd;
-  }
- 
- 
+}
+
 </style>

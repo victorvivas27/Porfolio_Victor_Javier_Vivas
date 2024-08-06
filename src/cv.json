@@ -44,7 +44,7 @@
       "position": "Operario de Pintura en Cabina",
       "url": "",
       "startDate": "2012-10-01",
-      "endDate": "2021-05-01",
+      "endDate": "2020-02-01",
       "summary": "Participé en la fabricación de maquinaria agrícola y de construcción, especializado en la aplicación de pintura en cabina para acabados de alta calidad.",
       "highlights": [
         "Aplicación de pinturas y recubrimientos en cabina, asegurando acabados uniformes y duraderos.",
@@ -136,7 +136,7 @@
       "name": "Aguero & Crespo",
       "position": "Pintor Junior",
       "url": "",
-      "startDate": "1998-01-01",
+      "startDate": "1998-02-01",
       "endDate": "2003-08-01",
       "summary": "Desarrollé habilidades en la aplicación de pintura en proyectos residenciales y comerciales, contribuyendo a la calidad y acabado de las superficies pintadas.",
       "highlights": [
@@ -162,15 +162,51 @@
   ],
   "education": [
     {
-      "institution": "University",
+      "institution": "JupiDigital",
+      "url": "https://www.jupidigital.com/",
+      "area": "Analista de Datos",
+      "studyType": "Analista de datos tiene la habilidad de explorar, interpretar y comprender datos para crear reportes visuales y comunicarlos a modo de información que sirva para la toma de decisiones",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "DIGITAL HOUSE",
+      "url": "https://www.digitalhouse.com/productos/programacion/certified-tech-developer?utm_source=Sendgrid&utm_medium=email&utm_campaign=Inscripcion&utm_term=certificaciones&utm_content=certificaciones-ctaboton-Certificaciones40off",
+      "area": "Certified Tech Develoment",
+      "studyType": "Es una iniciativa educativa co-creada por Digital House, Mercado Libre y Globant.",
+      "startDate": "2022-10-01",
+      "endDate": "2024-09-01",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "ISADA. Instituto Secundario a Distancia para Adultos.",
+      "url": "http://www.isada.edu.ar/",
+      "area": "Secundario",
+      "studyType": "Bachiller con Orientación en Economía y Administración",
+      "startDate": "2020-02-01",
+      "endDate": "2023-05-01",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Olegario Victor Andrades",
       "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
+      "area": "Primaria",
+      "studyType": "",
+      "startDate": "1983-02-01",
+      "endDate": "1990-11-30",
       "score": "4.0",
       "courses": [
-        "DB1101 - Basic SQL"
+        ""
       ]
     }
   ],
@@ -207,24 +243,24 @@
         "HTML",
         "CSS",
         "JavaScript",
-        "React",
-        "Vue.js"
+        "React"
       ]
     },
     {
       "name": "Backend Development",
       "level": "Intermediate",
       "keywords": [
-        "Node.js",
-        "Express.js"
+        "Java",
+        "Spring Boot",
+        "Postman",
+         "Git"
       ]
     },
     {
       "name": "Database Management",
       "level": "Intermediate",
       "keywords": [
-        "MySQL",
-        "MongoDB"
+        "MySQL"
       ]
     },
     {
@@ -232,6 +268,7 @@
       "level": "Beginner",
       "keywords": [
         "Docker",
+        "AWS",
         "CI/CD"
       ]
     },
@@ -240,10 +277,7 @@
       "level": "Intermediate",
       "keywords": [
         "Unit Testing",
-        "Integration Testing",
-        "End-to-End Testing",
-        "Jest",
-        "Selenium"
+         "Postman"
       ]
     },
     {
@@ -258,12 +292,11 @@
       "name": "Soft Skills",
       "level": "Advanced",
       "keywords": [
-        "Teamwork",
-        "Effective Communication",
-        "Problem-Solving",
-        "Critical Thinking",
-        "Time Management",
-        "Leadership"
+        "Trabajo en equipo",
+        "Comunicación efectiva",
+        "Resolución de problemas",
+        "Pensamiento crítico",
+        "Gestión del tiempo"
       ]
     }
   ],
