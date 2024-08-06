@@ -112,9 +112,23 @@ h2 {
 }
 .rotate-in-diag-1 {
   aspect-ratio: 1 / 1;
-  width: 150px; /* Increased size */
-  object-fit: contain;
+  width: 150px; /* Tamaño incrementado */
+  height: 150px; /* Asegurando que la altura y el ancho sean iguales */
+  object-fit: cover; /* Ajustar la imagen para llenar el contenedor y mantener el aspecto */
   animation: rotate-in-diag-1 0.5s;
+  border-radius: 50%;
+  border: solid;
+}
+
+figure {
+  display: flex; /* Asegura que el contenido del figure se comporte correctamente */
+  justify-content: center; /* Centra la imagen horizontalmente */
+  align-items: center; /* Centra la imagen verticalmente */
+  width: 150px; /* Tamaño del contenedor */
+  height: 150px; /* Asegurando que la altura y el ancho sean iguales */
+  border-radius: 50%; /* Hace que el contenedor sea redondo */
+  border: solid;
+  overflow: hidden; /* Oculta cualquier desbordamiento para que solo se vea la parte redonda */
 }
 span {
   color: #666;
