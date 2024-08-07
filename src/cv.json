@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Victor Javier Vivas",
-    "label": "Programador y Pintor Experimentado Profesional con más de 16 años en pintura y más de un año en programación, combinando habilidades para ofrecer soluciones creativas y efectivas.",
-    "image": "/victor-03.png",
+    "label": "Programador y Pintor Experimentado Profesional con más de 16 años en pintura y más de un año en programación.",
+    "image": "/victor-04.png",
     "email": "victorjaviervivas@gmail.com",
     "phone": "+543517178283",
     "url": "",
@@ -341,24 +341,6 @@
         "Implementación de cambios dinámicos en el estilo del cursor"
       ],
       "url": "https://mousesegir.netlify.app"
-    },
-    {
-      "name": "Project",
-      "isActive": false,
-      "description": "Description...",
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
-    },
-    {
-      "name": "Project",
-      "isActive": false,
-      "description": "Description...",
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
     }
   ]
 }
