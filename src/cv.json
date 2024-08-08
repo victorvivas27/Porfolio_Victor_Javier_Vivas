@@ -323,6 +323,15 @@
   ],
   "projects": [
     {
+      "name": "Tienda Super Hèroes",
+      "isActive": true,
+      "description": "Este proyecto es una práctica de desarrollo front-end con HTML y CSS. Consiste en un sitio web sencillo con una página de inicio (index.html) y un formulario (form.html), ambos estilizados con CSS (home.css y form.css). Las imágenes se usan para mejorar la estética general del sitio.",
+      "highlights": [
+        "Calificación: 10/10"
+      ],
+      "url": " https://victorvivas27.github.io/TiendaSuperHeroes/"
+    },
+    {
       "name": "Clinica Odontologica",
       "isActive": true,
       "description": "Examen de front-end III para evaluar habilidades en React. Incluye configuración de rutas, creación de componentes para distintas vistas, implementación de un contexto global con `useContext` y `useReducer`, y manejo de favoritos con `localStorage`. El diseño se ajusta al tema actual.",
