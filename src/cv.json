@@ -253,7 +253,7 @@
         "Java",
         "Spring Boot",
         "Postman",
-         "Git"
+        "Git"
       ]
     },
     {
@@ -277,7 +277,7 @@
       "level": "Intermediate",
       "keywords": [
         "Unit Testing",
-         "Postman"
+        "Postman"
       ]
     },
     {
@@ -330,6 +330,15 @@
         "Calificación: 10/10"
       ],
       "url": " https://victorvivas27.github.io/TiendaSuperHeroes/"
+    },
+    {
+      "name": "Tienda Pet Shop",
+      "isActive": true,
+      "description": "Tienda Pet Shop es un proyecto de desarrollo front-end II creado como parte de un ejercicio práctico para mejorar habilidades en HTML, CSS y JavaScript. El sitio web consta de una página de inicio y un formulario de contacto, ambos diseñados con un enfoque en la estética y la usabilidad. El uso de JavaScript se ha incorporado para añadir interactividad, como la validación de formularios y la visualización de mensajes dinámicos, mejorando la experiencia del usuario.",
+      "highlights": [
+        "Calificación: 10/10"
+      ],
+      "url": "https://victorvivas27.github.io/pet-shop/"
     },
     {
       "name": "Clinica Odontologica",
