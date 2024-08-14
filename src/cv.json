@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Victor Javier Vivas",
-    "label": "Programador y Pintor Experimentado Profesional con más de 16 años en pintura y más de un año en programación.",
+    "label": "Desarrollador Java | JavaScript | Front-End con 2 años de experiencia en programación.",
     "image": "/victor-04.png",
     "email": "victorjaviervivas@gmail.com",
     "phone": "+543517178283",
     "url": "",
-    "summary": "Hace no menos de 2 años, me sumergí en el mundo de la programación, adquiriendo conocimientos en diversas ramas de esta disciplina. A lo largo de mi vida, me he dedicado al esfuerzo constante y a mejorar tanto en el ámbito laboral como en el personal. Soy un programador apasionado por el aprendizaje continuo y la superación, siempre buscando nuevas oportunidades para crecer y contribuir con mis habilidades y conocimientos.",
+    "summary": "Hace 2 años, me sumergí en el mundo de la programación, adquiriendo conocimientos en diversas ramas de esta disciplina. A lo largo de mi vida, me he dedicado al esfuerzo constante y a mejorar tanto en el ámbito laboral como en el personal. Soy un programador apasionado por el aprendizaje continuo y la superación, siempre buscando nuevas oportunidades para crecer y contribuir con mis habilidades y conocimientos.",
     "location": {
       "address": "General Carol Urzua 6950",
       "postalCode": "7550000",
@@ -22,19 +22,14 @@
     },
     "profiles": [
       {
-        "network": "Facebook",
-        "username": "Victor Javier Vivas",
-        "url": "https://www.facebook.com/"
-      },
-      {
         "network": "GitHub",
         "username": "victorvivas27",
-        "url": "https://github.com/"
+        "url": "https://github.com/victorvivas27"
       },
       {
         "network": "LinkedIn",
         "username": "Victor Javier Vivas",
-        "url": "https://www.linkedin.com/"
+        "url": "https://www.linkedin.com/in/victor-javier-vivas-2923b21bb/"
       }
     ]
   },
@@ -104,46 +99,6 @@
         "Control de calidad de productos plásticos, asegurando que cumplieran con las especificaciones técnicas y estándares de la industria.",
         "Ajuste y mantenimiento de equipos para optimizar el proceso de producción y minimizar defectos.",
         "Colaboración en la mejora continua de procesos para aumentar la eficiencia y reducir desperdicios."
-      ]
-    },
-    {
-      "name": "THE MANAGER SA",
-      "position": "Operario inyeccion de plastico",
-      "url": "",
-      "startDate": "2007-04-01",
-      "endDate": "2007-09-01",
-      "summary": "Consultora",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "name": "Pinturas & Construcción",
-      "position": "Pintor Senior, Supervisor de Pintura",
-      "url": "",
-      "startDate": "2003-08-01",
-      "endDate": "2007-04-01",
-      "summary": "Trabajé en una empresa especializada en la aplicación de pintura y construcción, liderando equipos y supervisando proyectos para garantizar acabados de alta calidad en diversas aplicaciones.",
-      "highlights": [
-        "Supervisión de equipos de pintores en proyectos residenciales y comerciales, asegurando altos estándares de calidad.",
-        "Aplicación de técnicas avanzadas de pintura, incluyendo acabados especiales y tratamientos de superficies.",
-        "Planificación y coordinación de proyectos de pintura, desde la preparación de superficies hasta la aplicación final.",
-        "Gestión de materiales y equipos, incluyendo el mantenimiento y calibración de herramientas de pintura.",
-        "Entrenamiento y desarrollo de habilidades del personal, promoviendo prácticas de trabajo seguras y eficientes."
-      ]
-    },
-    {
-      "name": "Aguero & Crespo",
-      "position": "Pintor Junior",
-      "url": "",
-      "startDate": "1998-02-01",
-      "endDate": "2003-08-01",
-      "summary": "Desarrollé habilidades en la aplicación de pintura en proyectos residenciales y comerciales, contribuyendo a la calidad y acabado de las superficies pintadas.",
-      "highlights": [
-        "Aplicación de pinturas en interiores y exteriores bajo la supervisión de pintores más experimentados.",
-        "Preparación de superficies antes de la pintura, incluyendo limpieza, lijado y enmascarado.",
-        "Uso de herramientas y equipos de pintura de manera eficiente, siguiendo las instrucciones de seguridad y técnicas adecuadas.",
-        "Colaboración en la planificación y ejecución de proyectos de pintura, aprendiendo y aplicando técnicas básicas de acabado."
       ]
     }
   ],
@@ -296,7 +251,11 @@
         "Comunicación efectiva",
         "Resolución de problemas",
         "Pensamiento crítico",
-        "Gestión del tiempo"
+        "Gestión del tiempo",
+        "Colaboración",
+        "Adaptabilidad",
+        "Escucha activa",
+        "Delegación de tareas"
       ]
     }
   ],
