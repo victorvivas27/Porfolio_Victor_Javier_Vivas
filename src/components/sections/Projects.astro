@@ -12,10 +12,10 @@ import { projects } from "@cv";
             <article>
               <header>
                 <h3>
+                {isActive && <span class="pulsate-bck">•</span>}
                 <a href={url} title={`Ver el proyecto ${name}`}>
                   {name}
                 </a>
-                {isActive && <span class="pulsate-bck">•</span>}
               </h3>
                 <p>{description}</p>
               </header>
@@ -33,17 +33,7 @@ import { projects } from "@cv";
 </Section>
 
 <style>
-  @keyframes pulsate-bck {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(0.9);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
+  
 
   ul {
   
@@ -73,18 +63,15 @@ import { projects } from "@cv";
   article h3 .pulsate-bck {
     color: greenyellow;
     font-size: 2rem;
-    display: inline-block;
-    animation: pulsate-bck 0.5s ease-in-out infinite both;
+   
   }
 
   article a {
     color: #555;
-  }
-
-  article a:hover {
     text-decoration: underline;
   }
 
+  
   article p {
     font-size: 0.8rem;
     line-height: 1.2rem;

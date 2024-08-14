@@ -300,7 +300,7 @@
       "url": "https://victorvivas27.github.io/pet-shop/"
     },
     {
-      "name": "Clinica Odontologica",
+      "name": "Clínica Odontológica",
       "isActive": true,
       "description": "Examen de front-end III para evaluar habilidades en React. Incluye configuración de rutas, creación de componentes para distintas vistas, implementación de un contexto global con `useContext` y `useReducer`, y manejo de favoritos con `localStorage`. El diseño se ajusta al tema actual.",
       "highlights": [
