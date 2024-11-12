@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Victor Javier Vivas",
-    "label": "Desarrollador Java | JavaScript | Front-End con 2 años de experiencia en programación.",
+    "label":"Java | JavaScript |React Vite|SQL|Data Analisy| Qlik Cloud|Power Bi",
     "image": "/victor-04.png",
     "email": "victorjaviervivas@gmail.com",
     "phone": "+543517178283",
     "url": "",
-    "summary": "Hace 2 años, me sumergí en el mundo de la programación, adquiriendo conocimientos en diversas ramas de esta disciplina. A lo largo de mi vida, me he dedicado al esfuerzo constante y a mejorar tanto en el ámbito laboral como en el personal. Soy un programador apasionado por el aprendizaje continuo y la superación, siempre buscando nuevas oportunidades para crecer y contribuir con mis habilidades y conocimientos.",
+    "summary": "Programador y analista de datos en constante aprendizaje, enfocado en crecer y aportar con mis habilidades.",
     "location": {
       "address": "General Carol Urzua 6950",
       "postalCode": "7550000",
@@ -34,6 +34,20 @@
     ]
   },
   "work": [
+    {
+      "name": "Globant Chile",
+      "position": "Pasantía como Desarrollador Java",
+      "url": "",
+      "startDate": "2024-10-16",
+      "endDate": null,
+      "summary": "Actualmente realizando una pasantía en Globant Chile como Desarrollador Java, colaborando en proyectos de desarrollo de software con tecnologías de vanguardia y metodologías ágiles.",
+      "highlights": [
+        "Participación en el desarrollo de aplicaciones utilizando Java y Spring Boot.",
+        "Colaboración con un equipo interdisciplinario para diseñar soluciones efectivas y escalables.",
+        "Aplicación de buenas prácticas de desarrollo, como control de versiones y pruebas unitarias.",
+        "Adquisición de experiencia en metodologías ágiles y herramientas de colaboración en entornos de desarrollo profesional."
+      ]
+    },
     {
       "name": "CNH Industrial",
       "position": "Operario de Pintura en Cabina",
@@ -86,21 +100,8 @@
         "Ajuste y mantenimiento de máquinas para optimizar el rendimiento y la precisión del proceso de inyección.",
         "Colaboración con el equipo para implementar mejoras en el proceso y reducir defectos de producción."
       ]
-    },
-    {
-      "name": "MGI Coutier Argentina S.A.",
-      "position": "Operario de Soplado e Inyección de Plástico",
-      "url": "",
-      "startDate": "2007-09-01",
-      "endDate": "2010-08-01",
-      "summary": "Especializado en la fabricación e industrialización de productos plásticos para la industria automotriz, manejando procesos de soplado e inyección para producir componentes de alta calidad.",
-      "highlights": [
-        "Operación de máquinas de soplado e inyección de plástico para la producción de componentes automotrices.",
-        "Control de calidad de productos plásticos, asegurando que cumplieran con las especificaciones técnicas y estándares de la industria.",
-        "Ajuste y mantenimiento de equipos para optimizar el proceso de producción y minimizar defectos.",
-        "Colaboración en la mejora continua de procesos para aumentar la eficiencia y reducir desperdicios."
-      ]
     }
+    
   ],
   "volunteer": [
     {
@@ -256,6 +257,42 @@
         "Adaptabilidad",
         "Escucha activa",
         "Delegación de tareas"
+      ]
+    },
+    {
+      "name": "Qlik Cloud",
+      "level": "Beginner",
+      "keywords": [
+        "Data Visualization",
+        "Business Intelligence",
+        "Data Integration",
+        "ETL",
+        "Dashboarding",
+        "Qlik Sense"
+      ]
+    },
+    {
+      "name": "Power BI",
+      "level": "Beginner",
+      "keywords": [
+        "Data Visualization",
+        "Business Intelligence",
+        "Reporting",
+        "Dashboards",
+        "DAX",
+        "Power Query"
+      ]
+    },
+    {
+      "name": "Snowflake",
+      "level": "Beginner",
+      "keywords": [
+        "Cloud Data Warehouse",
+        "SQL",
+        "Data Integration",
+        "ETL",
+        "Data Modeling",
+        "Scalable Storage"
       ]
     }
   ],
