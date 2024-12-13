@@ -7,6 +7,8 @@ import LinkedIn from "@/icons/LinkedIn.astro";
 import Facebook from "@/icons/Facebook.astro";
 import GitHub from "@/icons/GitHup.astro";
 import Earth from "@/icons/Earth.astro";
+import CertificadoDigitalHouse from "@/icons/certificadoDigital.astro";
+import CertificadoJupiDigital from "@/icons/certificadoJupiDigital.astro";
 
 const { name, label, image, email, phone, url, location,profiles } = basics;
 const { address, postalCode, city, countryCode, region } = location;
@@ -16,6 +18,8 @@ const SOCIAL_ICONS: Record<string, any> = {
   Facebook,
   GitHub,
   LinkedIn,
+  CertificadoDigitalHouse,
+  CertificadoJupiDigital
 };
 const linkedInfo = profiles.find(({network})=>network==="LinkedIn")
 const linkedUrl=linkedInfo?.url
@@ -59,7 +63,7 @@ const printInfo=[email,phone,linkedUrl].filter(Boolean).join(" • ")
             <IconPhone />
           </a>
         )}
-        {profiles.map(({ network, url, username }) => {
+        {profiles.map(({ network, url }) => {
           const Icon = SOCIAL_ICONS[network];
           return (
             Icon && (

@@ -31,6 +31,16 @@
         "username": "Victor Javier Vivas",
         "url": "https://www.linkedin.com/in/victor-javier-vivas-2923b21bb/"
       }
+      ,{
+        "network": "CertificadoDigitalHouse",
+        "username": "Victor Javier Vivas",
+        "url": "https://myshop-victor.s3.us-east-1.amazonaws.com/Certificado-Victor+Javier+Vivas+Digital+House.pdf"
+      }
+      ,{
+        "network": "CertificadoJupiDigital",
+        "username": "Victor Javier Vivas",
+        "url": "https://myshop-victor.s3.us-east-1.amazonaws.com/Certificado+-Victor+Javier+Vivas+Jupi+Digital.pdf"
+      }
     ]
   },
   "work": [
@@ -123,7 +133,7 @@
       "area": "Analista de Datos",
       "studyType": "Analista de datos tiene la habilidad de explorar, interpretar y comprender datos para crear reportes visuales y comunicarlos a modo de información que sirva para la toma de decisiones",
       "startDate": "2024-07-01",
-      "endDate": null,
+      "endDate": "2024-10-01",
       "score": "",
       "courses": [
         ""
