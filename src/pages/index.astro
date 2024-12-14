@@ -11,13 +11,14 @@ import { basics } from "@cv";
 const { name, label } = basics;
 ---
 
-<Layout title={`Porfolio de ${name} - ${label}`}>
+<Layout title={`Portfolio de ${name} - ${label}`} url="/">
   <main>
     <Hero />
     <About />
     <Skills />
-    <Education />
     <Experience />
+    <Education />
+    
     <Projects />
   </main>
   <KeyboardManager />

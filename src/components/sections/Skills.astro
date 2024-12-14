@@ -32,21 +32,39 @@ import { skills } from "@cv";
     list-style: none;
     padding: 0;
   }
-  li {
-    border-radius: 6px;
-    background: #eee;
-    color: black;
-    font-size: 0.8rem;
-    font-weight: 500;
-    padding: 0.2rem 0.6rem;
-    margin: 4px;
-  }
-  article {
-    display: flex;
-    flex-direction: column;
-    font-size: 0.8rem;
-    border: solid 1px #ddd;
-    padding: 4px;
-    border-radius: 6px;
-  }
+/* Estilo base para todos los elementos de lista */
+li {
+  border-radius: 4px;
+  background-color: #f4f4f4; /* Fondo gris claro */
+  color: #333; /* Texto oscuro */
+  font-size: 0.9rem;
+  font-weight: 500;
+  padding: 0.4rem 0.8rem;
+  margin: 4px;
+  list-style: none; /* Eliminar puntos de la lista */
+}
+
+/* Para resaltar habilidades claves */
+li.highlight {
+  background-color: #f1c40f; /* Fondo amarillo suave */
+  color: #fff; /* Texto blanco */
+  font-weight: 600; /* Negrita */
+}
+
+/* Estilo para el contenedor del artículo */
+article {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.9rem;
+  border: 1px solid #ddd;
+  padding: 6px;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+/* Estilo para la lista dentro del artículo */
+article ul {
+  padding-left: 20px; /* Sangría para los elementos de la lista */
+  margin: 0; /* Eliminar márgenes */
+}
 </style>
