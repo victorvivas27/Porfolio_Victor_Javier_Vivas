@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Victor Javier Vivas",
-    "label":"Java | JavaScript |React Vite|SQL|Data Analisy| Qlik Cloud|Power Bi",
+    "label":"Java|JavaScript|React Vite|SQL|Data Analisy| Qlik Cloud|Power Bi",
     "image": "/victor-04.png",
     "email": "victorjaviervivas@gmail.com",
     "phone": "+56986348085",
@@ -12,12 +12,12 @@
       "postalCode": "7550000",
       "city": "Region Metropolitana",
       "countryCode": "CL",
-      "region": "Las Conde"
+      "region": "Las Condes"
     },
     "nationality": {
       "country": "Argentino",
       "provincia": "Cordoba",
-      "localidad": "Rio Ceballo",
+      "localidad": "Rio Ceballos",
       "countryCode": "AR"
     },
     "profiles": [
@@ -50,7 +50,8 @@
       "url": "",
       "startDate": "2024-10-16",
       "endDate": null,
-      "summary": "Actualmente realizando una pasantía en Globant Chile como Desarrollador Java, colaborando en proyectos de desarrollo de software con tecnologías de vanguardia y metodologías ágiles.",
+      "summary": "Actualmente, estoy realizando una pasantía en Globant Chile como Desarrollador Java.Experimentado con tecnologías como Java y Spring Boot, aprendiendo sobre estructura de datos, pruebas unitarias y Spring Security. También he tenido contacto con metodologías ágiles como Scrum. A lo largo de la pasantía, he contado con el apoyo de mentores, lo que me ha permitido conocer nuevas herramientas y mejorar mis habilidades.",
+
       "highlights": [
         "Participación en el desarrollo de aplicaciones utilizando Java y Spring Boot.",
         "Colaboración con un equipo interdisciplinario para diseñar soluciones efectivas y escalables.",
@@ -159,18 +160,6 @@
       "startDate": "2020-02-01",
       "endDate": "2023-05-01",
       "score": "",
-      "courses": [
-        ""
-      ]
-    },
-    {
-      "institution": "Olegario Victor Andrades",
-      "url": "https://institution.com/",
-      "area": "Primaria",
-      "studyType": "",
-      "startDate": "1983-02-01",
-      "endDate": "1990-11-30",
-      "score": "4.0",
       "courses": [
         ""
       ]
