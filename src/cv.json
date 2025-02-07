@@ -1,12 +1,13 @@
 {
   "basics": {
     "name": "Victor Javier Vivas",
-    "label":"Java|JavaScript|React Vite|SQL|Data Analisy| Qlik Cloud|Power Bi",
+    "label":"Data Analyst | Qlik | Power Bi | Java| Spring Boot",
     "image": "/victor-04.png",
     "email": "victorjaviervivas@gmail.com",
     "phone": "+56986348085",
     "url": "",
-    "summary": "Programador y analista de datos en constante aprendizaje, enfocado en crecer y aportar con mis habilidades.",
+    "summary": "Soy Víctor Javier Vivas, Analista de Datos y Desarrollador Java con conocimientos en Qlik, Power BI, SQL, Java y Spring Boot. Me interesa la búsqueda y optimización de información para mejorar la toma de decisiones estratégicas. Trabajo con herramientas de visualización y bases de datos para obtener insights que contribuyan al crecimiento y eficiencia de los proyectos. Como desarrollador Java, utilizo Spring Boot para construir soluciones funcionales y escalables, aplicando buenas prácticas de desarrollo y principios de programación orientada a objetos. Busco aprender continuamente y afrontar nuevos desafíos que me permitan crecer en el mundo de la tecnología.",
+
     "location": {
       "address": "General Carol Urzua 6950",
       "postalCode": "7550000",
@@ -48,9 +49,9 @@
       "name": "Globant Chile",
       "position": "Pasantía como Desarrollador Java",
       "url": "",
-      "startDate": "2024-10-16",
-      "endDate": null,
-      "summary": "Actualmente, estoy realizando una pasantía en Globant Chile como Desarrollador Java.Experimentado con tecnologías como Java y Spring Boot, aprendiendo sobre estructura de datos, pruebas unitarias y Spring Security. También he tenido contacto con metodologías ágiles como Scrum. A lo largo de la pasantía, he contado con el apoyo de mentores, lo que me ha permitido conocer nuevas herramientas y mejorar mis habilidades.",
+      "startDate": "2024-10-17",
+      "endDate": "2024-12-19",
+      "summary": "Realice una  pasantía en Globant Chile como Desarrollador Java.Experimentado con tecnologías como Java y Spring Boot, aprendiendo sobre estructura de datos, pruebas unitarias y Spring Security. También he tenido contacto con metodologías ágiles como Scrum. A lo largo de la pasantía, he contado con el apoyo de mentores, lo que me ha permitido conocer nuevas herramientas y mejorar mis habilidades.",
 
       "highlights": [
         "Participación en el desarrollo de aplicaciones utilizando Java y Spring Boot.",
@@ -65,7 +66,7 @@
       "url": "",
       "startDate": "2012-10-01",
       "endDate": "2020-02-01",
-      "summary": "Participé en la fabricación de maquinaria agrícola y de construcción, especializado en la aplicación de pintura en cabina para acabados de alta calidad.",
+      "summary": "Participé en la fabricación de maquinaria agrícola y de construcción, especializado en la aplicación de pintura en cabina para acabados de alta calidad aplicando World Class Manufacturing (WCM)",
       "highlights": [
         "Aplicación de pinturas y recubrimientos en cabina, asegurando acabados uniformes y duraderos.",
         "Mantenimiento y calibración de equipos de pintura para garantizar un rendimiento óptimo.",
@@ -133,8 +134,8 @@
       "url": "https://www.jupidigital.com/",
       "area": "Analista de Datos",
       "studyType": "Analista de datos tiene la habilidad de explorar, interpretar y comprender datos para crear reportes visuales y comunicarlos a modo de información que sirva para la toma de decisiones",
-      "startDate": "2024-07-01",
-      "endDate": "2024-10-01",
+      "startDate": "2024-07-21",
+      "endDate": "2024-12-13",
       "score": "",
       "courses": [
         ""
@@ -191,75 +192,9 @@
     }
   ],
   "skills": [
+
     {
-      "name": "Web Development",
-      "level": "Advanced",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React"
-      ]
-    },
-    {
-      "name": "Backend Development",
-      "level": "Intermediate",
-      "keywords": [
-        "Java",
-        "Spring Boot",
-        "Postman",
-        "Git"
-      ]
-    },
-    {
-      "name": "Database Management",
-      "level": "Intermediate",
-      "keywords": [
-        "MySQL"
-      ]
-    },
-    {
-      "name": "DevOps",
-      "level": "Beginner",
-      "keywords": [
-        "Docker",
-        "AWS",
-        "CI/CD"
-      ]
-    },
-    {
-      "name": "Testing and Quality Assurance",
-      "level": "Intermediate",
-      "keywords": [
-        "Unit Testing",
-        "Postman"
-      ]
-    },
-    {
-      "name": "Security",
-      "level": "Beginner",
-      "keywords": [
-        "Authentication",
-        "Authorization"
-      ]
-    },
-    {
-      "name": "Soft Skills",
-      "level": "Advanced",
-      "keywords": [
-        "Trabajo en equipo",
-        "Comunicación efectiva",
-        "Resolución de problemas",
-        "Pensamiento crítico",
-        "Gestión del tiempo",
-        "Colaboración",
-        "Adaptabilidad",
-        "Escucha activa",
-        "Delegación de tareas"
-      ]
-    },
-    {
-      "name": "Qlik Cloud",
+      "name": "Qlik",
       "level": "Beginner",
       "keywords": [
         "Data Visualization",
@@ -292,6 +227,76 @@
         "ETL",
         "Data Modeling",
         "Scalable Storage"
+      ]
+    },
+    
+    {
+      "name": "Database Management",
+      "level": "Intermediate",
+      "keywords": [
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Java",
+        "Spring Boot",
+        "Postman",
+        "Git"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Beginner",
+      "keywords": [
+        "Docker",
+        "AWS",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Testing and Quality Assurance",
+      "level": "Intermediate",
+      "keywords": [
+        "Unit Testing",
+        "Postman"
+      ]
+    },
+    {
+      "name": "Security",
+      "level": "Beginner",
+      "keywords": [
+        "Authentication",
+        "Authorization"
+      ]
+    },
+   
+    
+    {
+      "name": "Soft Skills",
+      "level": "Advanced",
+      "keywords": [
+        "Trabajo en equipo",
+        "Comunicación efectiva",
+        "Resolución de problemas",
+        "Pensamiento crítico",
+        "Gestión del tiempo",
+        "Colaboración",
+        "Adaptabilidad",
+        "Escucha activa",
+        "Delegación de tareas"
       ]
     }
   ],

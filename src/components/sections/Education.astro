@@ -8,10 +8,12 @@ import { education } from "@cv"
   <ul>
     {
       education.map(({ institution, startDate, endDate, area,studyType }) => {
-        const startYear = new Date(startDate).getFullYear()
-        const endYear =
-          endDate != null ? new Date(endDate).getFullYear() : "Actual"
-        const years = `${startYear} - ${endYear}`
+        // Formatear fecha en "DD/MM/YYYY"
+        const formatDate = (date: string | number | Date) =>
+            new Date(date).toLocaleDateString("es-ES");
+
+          const startFormatted = formatDate(startDate);
+          const endFormatted = endDate ? formatDate(endDate) : "Actual";
 
         return (
           <li>
@@ -21,7 +23,7 @@ import { education } from "@cv"
                   <h3>{institution}</h3>
                 </div>
 
-                <time>{years}</time>
+                <time>{startFormatted} - {endFormatted}</time>
               </header>
 
               <footer>
