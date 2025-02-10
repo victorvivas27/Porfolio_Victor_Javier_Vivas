@@ -24,7 +24,7 @@ const formatDate = (date: string | number | Date) =>
                   <h3>{institution}</h3>
                 </div>
 
-                <time>{startFormatted} - {endFormatted}</time>
+                <time class="time">{startFormatted} - {endFormatted}</time>
               </header>
 
               <footer>
@@ -58,15 +58,14 @@ const formatDate = (date: string | number | Date) =>
     margin-bottom: 4px;
   }
 
-  time {
+  .time {
     color: #555;
-    font-size: 0.85rem;
-    min-width: 102px;
-  }
+   }
 
   @media (width <= 700px) {
-    time {
+    .time {
       text-align: right;
+      font-size: 0.8em;
     }
   }
 </style>
