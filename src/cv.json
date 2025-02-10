@@ -194,15 +194,14 @@
   "skills": [
 
     {
-      "name": "Qlik",
+      "name": "Qlik Sense",
       "level": "Beginner",
       "keywords": [
         "Data Visualization",
         "Business Intelligence",
         "Data Integration",
         "ETL",
-        "Dashboarding",
-        "Qlik Sense"
+        "Dashboarding"
       ]
     },
     {
