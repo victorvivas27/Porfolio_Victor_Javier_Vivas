@@ -8,9 +8,10 @@ import { education } from "@cv"
   <ul>
     {
       education.map(({ institution, startDate, endDate, area,studyType }) => {
-        // Formatear fecha en "DD/MM/YYYY"
-        const formatDate = (date: string | number | Date) =>
-            new Date(date).toLocaleDateString("es-ES");
+      // Formatear fecha en "MMM. YYYY"
+const formatDate = (date: string | number | Date) =>
+    new Date(date).toLocaleDateString("es-ES", { year: "numeric", month: "short" })
+        .replace(".", ""); // Opcional: eliminar el punto final en algunos formatos
 
           const startFormatted = formatDate(startDate);
           const endFormatted = endDate ? formatDate(endDate) : "Actual";

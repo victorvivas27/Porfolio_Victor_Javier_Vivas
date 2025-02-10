@@ -9,9 +9,10 @@ const {} = work;
     {
       work.map(
         ({ name, position, url, startDate, endDate, summary}) => {
-           // Formatear fecha en "DD/MM/YYYY"
-          const formatDate = (date: string | number | Date) =>
-            new Date(date).toLocaleDateString("es-ES");
+         // Formatear fecha en "MMM. YYYY"
+const formatDate = (date: string | number | Date) =>
+    new Date(date).toLocaleDateString("es-ES", { year: "numeric", month: "short" })
+        .replace(".", ""); // Opcional: eliminar el punto final en algunos formatos
 
           const startFormatted = formatDate(startDate);
           const endFormatted = endDate ? formatDate(endDate) : "Actual";
