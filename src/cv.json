@@ -281,23 +281,6 @@
         "Authentication",
         "Authorization"
       ]
-    },
-   
-    
-    {
-      "name": "Soft Skills",
-      "level": "Advanced",
-      "keywords": [
-        "Trabajo en equipo",
-        "Comunicación efectiva",
-        "Resolución de problemas",
-        "Pensamiento crítico",
-        "Gestión del tiempo",
-        "Colaboración",
-        "Adaptabilidad",
-        "Escucha activa",
-        "Delegación de tareas"
-      ]
     }
   ],
   "languages": [
